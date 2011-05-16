@@ -1,0 +1,5 @@
+This is a 256 color terminal vim colorscheme.
+
+Get the latest version at https://github.com/Tuurlijk/typofree.vim
+Put in ~/.vim/colors or (<your-vim-dir>\vimfiles\colors on Windows) and do
+:colorscheme typofree
